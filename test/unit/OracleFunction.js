@@ -18,8 +18,9 @@ while(err>.05) {
             return [(input[0] ^ input[1])-outputs[0]];
         },.2);
     }
-    console.log(err);
 }
+
+    console.log(err);
 
 for(var i = 0;i<inputs.length;i++) {
     var input = inputs[i];

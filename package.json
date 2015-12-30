@@ -1,7 +1,7 @@
 {
     "name": "brainjs",
     "description": "Neural network library",
-    "version": "0.7.2",
+    "version": "0.7.3",
     "contributors": [{ "name" : "Heather Arthur", "email" : "fayearthur@gmail.com"}, { "name" : "Brian Bosak", "email" :"brielcccc@gmail.com"}],
     "repository": {
         "type": "git",
